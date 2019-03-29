@@ -1,0 +1,23 @@
+/*
+* Name
+* Due Date
+* Project Name and Description 
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+   
+}
+
+img{width:300px; height:300px; }    /* This changes the size of the image */
+
+#img2{width:325px; height: 275px;}  /* This changes the size of the image */
+
+figure{float: right;}               /* This moves the image to the right */
